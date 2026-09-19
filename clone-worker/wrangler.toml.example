@@ -1,0 +1,12 @@
+name = "hemayet-portfolio-assistant"
+main = "src/worker.js"
+compatibility_date = "2026-09-18"
+
+# Copy to wrangler.toml and confirm current Cloudflare syntax before deployment.
+# Configure a native Rate Limiting binding named RATE_LIMITER in the Cloudflare
+# dashboard or using the current Wrangler configuration schema. Use a short
+# operational window (for example, requests per minute). An exact daily quota
+# needs a stronger-consistency design such as a Durable Object.
+
+[observability]
+enabled = true
