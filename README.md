@@ -57,7 +57,7 @@ The core identity, public contact details, portfolio destination, and four Sales
 ## Contact
 
 Hemayet Hossain · Sydney, Australia  
-LinkedIn: <https://www.linkedin.com/in/hemayethossain> · Email: <mailto:hossainconsulting@gmail.com> · Portfolio: <https://portfolio.hossainconsulting.com/>
+LinkedIn: <https://www.linkedin.com/in/hemayethossain> · Email: <mailto:hemayet@hemayethossain.com> · Portfolio: <https://portfolio.hossainconsulting.com/>
 
 
 ## AI contributor credit

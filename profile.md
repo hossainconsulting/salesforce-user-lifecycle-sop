@@ -10,7 +10,7 @@
 - Languages and proficiency: `[VERIFY]`
 - Degree: Bachelor of Information Technology, Central Queensland University, Sydney campus `[VERIFY graduation details]`
 - Australian Computer Society membership: `[VERIFY current status]`
-- Email: <hossainconsulting@gmail.com> — confirmed by Hemayet Hossain on 18 September 2026
+- Email: <hemayet@hemayethossain.com> — recruitment email, replaced the earlier hossainconsulting@gmail.com on 4 November 2026 with Hemayet's approval
 - LinkedIn: <https://www.linkedin.com/in/hemayethossain> — confirmed by Hemayet Hossain on 18 September 2026
 - GitHub: <https://github.com/hossainconsulting> `[VERIFY preferred public profile/account type]`
 - Portfolio: <https://portfolio.hossainconsulting.com/> — confirmed by Hemayet Hossain on 18 September 2026; availability not independently checked in this workspace
